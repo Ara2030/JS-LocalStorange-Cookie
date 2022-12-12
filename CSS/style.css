@@ -1,0 +1,26 @@
+form {
+  background-color: #ffffff;
+  width: 70%;
+  margin: 0 auto;
+  padding: 15px;
+  text-align: center;
+}
+label {
+  margin-left: 30px;
+}
+
+input {
+  margin-left: 40px;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+div {
+  padding-bottom: 9px;
+}
+.infofield_name {
+  margin-left: 32px;
+}
+.income {
+  margin-left: 6px;
+}
